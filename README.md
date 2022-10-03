@@ -2,7 +2,7 @@
 
 ### Overview
 
-This dataset provides GDP per capita data over 1992-2013 at the subnational level globally. Previous data sets of subnational GDP had limited spatial coverage and data availability tended to be biased towards higher-income regions. For our publication "Globally unequal effect of extreme heat on economic growth" in _Science Advances_ (forthcoming), Justin Mankin and I produced a globally consistent set of subnational GDP per capita data by downscaling country-level GDP data using nightlights data. These data can be used to explore patterns of global development and economic production at the subnational level.
+This dataset provides GDP per capita data over 1992-2013 at the subnational level globally. Previous data sets of subnational GDP had limited spatial coverage and data availability tended to be biased towards higher-income regions. For our publication "Globally unequal effect of extreme heat on economic growth" in _Science Advances_ (10.1126/sciadv.add3726), Justin Mankin and I produced a globally consistent set of subnational GDP per capita data by downscaling country-level GDP data using nightlights data. These data can be used to explore patterns of global development and economic production at the subnational level.
 
 If using this data, please cite the _Science Advances_ paper (doi forthcoming).
 
